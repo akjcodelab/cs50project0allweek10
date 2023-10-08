@@ -1,5 +1,5 @@
 # CS50 project 0-10
-This is cs50 coursework project from week 0 to week 10
+This is cs50 coursework project from week 0 to week 10<br>
 [Project code](https://github.com/me50/akjcodelab)
 ## week0
 
